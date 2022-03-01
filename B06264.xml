@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of the proceedings at the Sessions-house in the Old-Bayly, at a sessions there held on April 25, and 26. 1677. Where nine persons (six men and three women) were condemn'd to die. With a particular relation of the young man at Enfield, and his brother and sister's tryal and condemnation, who most barbarously abused his sweetheart by cutting off one of her lips, putting out one of her eyes, slashing her cheeks, stabbing her in several places, and other inhumane cruelties. To which is added, a true account of the bloody murther in the Hay-market, where a coachman lately kill'd his wife with a fire-fork. As also an account how many are burn'd in the hand, transported, and to be whipt.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06264</idno>
+            <idno type="STC">Wing T2820B</idno>
+            <idno type="STC">ESTC R185600</idno>
+            <idno type="EEBO-CITATION">53981757</idno>
+            <idno type="OCLC">ocm 53981757</idno>
+            <idno type="VID">180400</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180400)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2827:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of the proceedings at the Sessions-house in the Old-Bayly, at a sessions there held on April 25, and 26. 1677. Where nine persons (six men and three women) were condemn'd to die. With a particular relation of the young man at Enfield, and his brother and sister's tryal and condemnation, who most barbarously abused his sweetheart by cutting off one of her lips, putting out one of her eyes, slashing her cheeks, stabbing her in several places, and other inhumane cruelties. To which is added, a true account of the bloody murther in the Hay-market, where a coachman lately kill'd his wife with a fire-fork. As also an account how many are burn'd in the hand, transported, and to be whipt.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With permission. Ro. L'Estrange."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Court of Oyer and Terminer and Gaol Delivery (London and Middlesex)</term>
+               <term>Trials --  England --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180400:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:180400:2" rendition="simple:additions"/>
+            <pb facs="tcp:180400:2"/>
+            <p>A true NARRATIVE Of the Proceedings at the Seſſions-houſe IN THE OLD-BAYLY, At a Seſſions there held On <hi>April</hi> 25, and 26. 1677.</p>
+            <p>Where Nine perſons (Six men and Three women) were Condemn'd to die.</p>
+            <p>With a particular Relation of the Young man at <hi>Enfield,</hi> and his Brother and Siſter's Tryal and Con<g ref="char:EOLhyphen"/>demnation; who moſt barbarouſly abuſed his Sweet<g ref="char:EOLhyphen"/>heart by cutting off one of her Lips, putting out one of her Eyes, ſlaſhing her Cheeks, ſtabbing her in ſeve<g ref="char:EOLhyphen"/>ral places, and other Inhumane Cruelties.</p>
+            <p>To which is added, a true Account of the Bloody Mur<g ref="char:EOLhyphen"/>ther in the Hay-market, where a Coachman lately kill'd his Wife with a Fire-fork.</p>
+            <p>As alſo an Account how many are Burn'd in the Hand, Tranſported, and to be Whipt.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Permiſſion.</p>
+                        <closer>
+                           <signed>Ro. L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the year 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180400:3" rendition="simple:additions"/>
+            <pb facs="tcp:180400:3"/>
+            <head>A true Narrative of the Proceedings at the Seſsions-houſe in the <hi>Old-Bayly.</hi>
+            </head>
+            <p>THe 25th of this Inſtant <hi>April</hi> be<g ref="char:EOLhyphen"/>gan the Seſſions at Juſtice-hall in the <hi>Old-Bayly.</hi> The remar<g ref="char:EOLhyphen"/>kable Occurrences there, were as follows:</p>
+            <p>A fellow of a good Name, but poor Con<g ref="char:EOLhyphen"/>dition, and worſe Quality, was Convicted for laying an Embargo on a man whom he met on the Road, by bidding him <hi>Stand and Deliver,</hi> but to little purpoſe: for the Traveller had no more Money than a Capuchin, but told him, all the treaſure he had was a pound of
+<pb n="4" facs="tcp:180400:4"/>
+Tobacco, which he civilly ſurrendred; and the pitiful Padder to verifie the Proverb, and play at ſmall Games rather than be idle, ac<g ref="char:EOLhyphen"/>cepted. Being violently taken from his per<g ref="char:EOLhyphen"/>ſon on the Road, this in ſtrict Law was death; but the Court mixing Mercie with Juſtice, was pleaſed to ſet him by before Condem<g ref="char:EOLhyphen"/>nation.</p>
+            <p>A young fellow abuſing the Truſt repo<g ref="char:EOLhyphen"/>ſed in him by a Perſon of Quality, whom he had the honour to ſerve, had moſt ingrate<g ref="char:EOLhyphen"/>fully and treacherouſly robb'd him of Jewels, Money, <hi>&amp;c.</hi> to the value of Twelve hundred pounds; and intending, it ſeems, to ſpend it abroad for acquiring ſome French Accom<g ref="char:EOLhyphen"/>pliſhments, was taken on board a Ship at <hi>Portſmouth.</hi> He pleaded guilty, and beg<g ref="char:EOLhyphen"/>ging the favour of Clergy, had it very fully beſtow'd upon him. All or moſt part of the Prize was refunded, and the ingenious Gentleman had only a ſignal Mark left him of all his booty.</p>
+            <p>A woman, whoſe age might have promiſed more Chaſtity and prudence, being privately
+<pb n="5" facs="tcp:180400:4"/>
+delivered of a Baſtard-childe, made ſhift, by her wickedneſs, to deprive the poor Infant of that life ſhe had contributed to by her wan<g ref="char:EOLhyphen"/>tonneſs. She pretended it came by its un<g ref="char:EOLhyphen"/>timely end, by falling from her body on the floor whilſt ſhe unhumanely went from the bed towards the door; but ſhe concealing it above a week under her Pillow, the Law juſt<g ref="char:EOLhyphen"/>ly Condemn'd her as a wilful Murthereſs.</p>
+            <p>An old Offender having lately, with two of his Female Confederates, ſtolen a piece of Stuff from a Gentleman in <hi>Ludgate-ſtreet,</hi> had the impudence, within two days, to take their progreſs again by the ſame ſhop, and be<g ref="char:EOLhyphen"/>ing known, he was apprehended, and now Convicted; and having formerly received the civility of the <hi>Warm Iron,</hi> was Condem<g ref="char:EOLhyphen"/>ned to die.</p>
+            <p>A man for Perſonating another, and in his Name entring into a Recognizance, was con<g ref="char:EOLhyphen"/>vict of Felony; and truly was ſo far inexcu<g ref="char:EOLhyphen"/>ſable, ſince another for the like offence but two Seſſions ago was Condemn'd and carried to Execution, though under the Gallows he
+<pb n="6" facs="tcp:180400:5"/>
+a gracious Reprieve. However, in this Caſe the Crime being committed only before a Ju<g ref="char:EOLhyphen"/>ſtice of Peace, it was ſome doubt, whether within the Statute, which makes it Capital; and ſo the Court waved Sentencing him to die, diſcreetly inclining in dubious Caſes to favour rather than ſeverity.</p>
+            <p>The next was a Caſe wholly extraordi<g ref="char:EOLhyphen"/>nary; and as it was the firſt Preſident of Pu<g ref="char:EOLhyphen"/>niſhment on that moſt neceſſary Statute a<g ref="char:EOLhyphen"/>gainſt cutting off Noſes, disſiguring and maiming his Majeſties Subjects; ſo in the Cir<g ref="char:EOLhyphen"/>cumſtances, for Malice, Cruelty, and Barbari<g ref="char:EOLhyphen"/>ty, it exceeds all the Preſidents of former Ages.</p>
+            <p>A young man of <hi>Enfield,</hi> being Fellow<g ref="char:EOLhyphen"/>ſervant with a very pretty young maid, pre<g ref="char:EOLhyphen"/>tended Love to her; but meeting with a Repulſe, he conſults his Siſter, who adviſed him to get to bed to her, and get her with Childe, and then leave her. This She-devil's Counſel, it ſeems, the Maid's Vertue hindred him from putting in execution; and there<g ref="char:EOLhyphen"/>fore finding all his hopes like to wither, they
+<pb n="7" facs="tcp:180400:5"/>
+take new meaſures: There was no body in Fa<g ref="char:EOLhyphen"/>mily but theſe two and an aged Maſter and Mi<g ref="char:EOLhyphen"/>ſtriſs, who being both in bed, on the 20th of <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> laſt, as this innocent Virgin and her treache<g ref="char:EOLhyphen"/>rous Sweet-heart were ſitting together, his own Brother and Siſter came and knock'd and call'd him by his name, who open'd the door and let them in; but no ſooner were they entred, but this Siſter, more like a Fiend than a Woman, fell upon this harmleſs Maid, and with a Knife, whilſt the other Brother held her, and in a moſt inhumane manner cut out one of her Eyes, the ſight whereof ſhe has loſt; cut her Noſe towards the upper part ſo deſperately, that two bones, produ<g ref="char:EOLhyphen"/>ced in Court, were ſince taken out of it; her Lips they ſlaſh'd ſo, that with much difficulty, and not yet perfectly, ſhe can uſe them in ſpeech; two of her Teeth they beat out; gave her a lamentable wound in the Neck, and two ſtabs, beſides a great wound in the Arm; all which was teſtified by the Chirurgeon: and ſo leaving her thus mangled as dead, went home; after which the pretended Sweet-heart runs up ſtairs, wakes his Maſter and Miſtriſs, cries out Thieves; the Neighbours come in, ſend for a Surgeon: The fellow, to colour his Villainy, pretends to have been knock'd down, and complains of a blow on his forehead, but inconſiderable. After ſome days the Maid comes to her ſelf, and declares the Authors of this Cruelty: One of the Crimi<g ref="char:EOLhyphen"/>nals flies, but was afterwards taken. No theft appeared to have been committed; ſo that it
+<pb n="8" facs="tcp:180400:6"/>
+being evident that it was a premeditated act of Malice to render her deform'd and unfit for any bodies Addreſſes, becauſe ſhe would not conſent to his deſires, all three of them were found guilty within the Statute, which makes ſuch barbarous Aſſaults Felony without Clergy, and ſo deſer<g ref="char:EOLhyphen"/>vedly received Sentence of Death.</p>
+            <p>Here was expectation of the Tryal of a Mid<g ref="char:EOLhyphen"/>wife for taking up a Childe out of its Grave, <hi>&amp;c.</hi> but for ſome reaſons it was put off. Alſo a hor<g ref="char:EOLhyphen"/>rid Murther was in Eaſter-week committed in the Hay market by <hi>Charing-croſs,</hi> where a Hack<g ref="char:EOLhyphen"/>ney-Coachman falling out with his Wife about their Horſes going to work, in his deviliſh fury got up a Fire fork, and therewith ſtabb'd her into the head and ſeveral parts of the body, of which wounds, after neer a weeks languiſhing, ſhe died, and by the Coroners Inqueſt on the 26th inſtant it was found wilful Murther; but the Husband immediately after the blows given, made his e<g ref="char:EOLhyphen"/>ſcape, and is not ſince heard of.</p>
+            <p>There were in all Nine perſons, Six men and Three women, Condemn'd; Nine Burn'd in the Hand; and Six, for petty Larceny, to be Whip'd at the Carts Tayl.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180400:6"/>
+            <pb facs="tcp:180400:7" rendition="simple:additions"/>
+            <pb facs="tcp:180400:7" rendition="simple:additions"/>
+            <pb facs="tcp:180400:8"/>
+            <pb n="4" facs="tcp:180400:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:180400:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:180400:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:180400:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:180400:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
